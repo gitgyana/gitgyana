@@ -38,7 +38,6 @@
 
 ### 🔗 Let's Connect
 
-- 🌐 Portfolio (soon)
 - 💼 [LinkedIn](https://linkedin.com/in/gyanapriyadarshi)
 - 🐦 [Twitter](https://twitter.com/TweetJoyel)
 - 📲 [Instagram](https://www.instagram.com/gyana.meta/)
