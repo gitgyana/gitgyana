@@ -27,15 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitgyana&show_icons=true&theme=github_dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgyana&layout=compact&theme=github_dark" height="165">
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/gyanapriyadarshi)
