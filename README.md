@@ -27,7 +27,7 @@
 
 ---
 
-### 🔗 Let's Connect
+### Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/gyanapriyadarshi)
 - [Twitter](https://twitter.com/TweetJoyel)
