@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Gyana</h1>
 
 <p align="center">
-  💻 Passionate Developer | Web & Blockchain Enthusiast | Lifelong Learner
+  Passionate Developer | Web & Blockchain Enthusiast | Lifelong Learner
 </p>
 
 ---
