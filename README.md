@@ -8,7 +8,7 @@
 
 ### About Me
 
-- Currently working on: **Scrato: Automated News Scraper**
+- Currently working on: **Public Tools** [visit](tools.gyana.org.in)
 - Learning: **Machine Learning**, **Soft Computing**, and **Advanced Dynamic Web Page**
 - Interests: Web3 & AI integrations
 - Goal: Build secure, impactful, and scalable digital solutions
