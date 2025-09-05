@@ -39,7 +39,7 @@
 
 ### Certifications
 
-[SAP Certified Associate - Back-End Developer, ABAP Cloud](https://www.credly.com/badges/d32ee989-1b29-465b-8864-fca8e5a16ce1)
+[SAP Certified Associate - Back-End Developer - ABAP Cloud](https://www.credly.com/badges/d32ee989-1b29-465b-8864-fca8e5a16ce1)
 
 [SAP Certified Associate - SAP Fiori Application Developer](https://www.credly.com/badges/8950ffeb-8d15-4eaf-8c64-bba5da4cc959)
 
