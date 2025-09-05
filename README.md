@@ -8,7 +8,7 @@
 
 ### About Me
 
-- Currently working on: **SQLite Parser** [visit](https://sqlite.gyana.org.in/)
+- Currently working on: **SQLite Parser** [tool link](https://sqlite.gyana.org.in/)
 - Learning: **Machine Learning**, **Soft Computing**, and **Advanced Dynamic Web Page**
 - Interests: Web3 & AI integrations
 - Goal: Build secure, impactful, and scalable digital solutions
