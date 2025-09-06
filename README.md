@@ -8,7 +8,7 @@
 
 ### About Me
 
-- Currently working on: [**SQLite Parser**](https://sqlite.gyana.org.in/)
+- Currently working on: [Wumpus World Game](https://www.gyana.org.in/Wumpus_World/) | [**SQLite Parser**](https://sqlite.gyana.org.in/) | QRCode Generator
 - Learning: **Machine Learning**, **Soft Computing**, and **Advanced Dynamic Web Page**
 - Interests: Web3 & AI integrations
 - Goal: Build secure, impactful, and scalable digital solutions
